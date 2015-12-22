@@ -6,9 +6,10 @@ Basic sales tax is applicable at a rate of 10% on all goods, except books, food,
 
 When I purchase items I receive a receipt that lists the name of all the items and their price (including tax), finishing with the total cost of the items, and the total amounts of sales taxes paid. The rounding rules for sales tax are that for a tax rate of n%, a shelf price of p contains (np/100 rounded up to the nearest 0.05) amount of sales tax.
 
-[ ] Write a model to calculate sales tax and total cost (Required)
-[ ] Write a page printing out the receipt details (as HTML Page) for these shopping baskets (see Input 1, Input 2, Input 3)
-[ ] Write a rspect
+- [ ] Write a model to calculate sales tax and total cost
+- [ ] Write a page printing out the receipt details (as a HTML page) for these shopping carts (see Input 1, Input 2, Input 3)
+- [ ] Write a rspect
+
 Proper object orientated design is important. Each row in the input represents a line item of the receipt.
 
 
